@@ -1,0 +1,16 @@
+{
+    "12345": {
+        "session_id": "2e6a4582f23c8115499719935d84d7c3",
+        "login_time": "2026-10-17 15:17:37",
+        "last_active": "2026-10-17 15:18:08",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/154.0.0.0 Safari\/537.36"
+    },
+    "123456": {
+        "session_id": "264809517548b757f4f6c1a412d16d51",
+        "login_time": "2026-08-24 21:48:07",
+        "last_active": "2026-08-24 21:48:38",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/151.0.0.0 Safari\/537.36"
+    }
+}

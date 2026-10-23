@@ -1,0 +1,24 @@
+{
+    "12345": {
+        "name": "12345",
+        "password": "$2y$10$38Fe1JGFNqUN0.CPHkjcUuAo8WyZC5AguwAAIkczHQjeznrfp3jNm",
+        "role": "admin",
+        "staff_access": true,
+        "frozen": false
+    },
+    "1234": {
+        "name": "1234",
+        "password": "$2y$10$IDZdcEhe3r8BZAE8NDwr8.BL3X2P8E4lQuP0.2Ghxampt1mr42TdK",
+        "role": "staff",
+        "staff_access": true,
+        "avatar": "\/assets\/uploads\/avatars\/avatar-1234-cb5d6f2d64664346.jpg",
+        "frozen": false
+    },
+    "123456": {
+        "name": "123456",
+        "password": "$2y$10$pV5cnjizmhEnsdFcQhnQPuS68yRNiOuq4Cg27GBF.ZYEFDRhBXw16",
+        "role": "leader",
+        "staff_access": true,
+        "frozen": false
+    }
+}

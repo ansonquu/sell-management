@@ -1,0 +1,12 @@
+{
+    "install_id": "0e7d1288147da36678c0c97a72e0513b",
+    "status": "active",
+    "activation_code": "LIC-TXY3S-394FB-6NW65-WQJBN",
+    "license_token": "",
+    "activated_at": "",
+    "expires_at": "",
+    "last_verified_at": "",
+    "last_daily_check": "",
+    "last_attempt_at": "2026-08-16 21:41:21",
+    "last_error": "授权服务器连接失败：SSL certificate OpenSSL verify result: unable to get local issuer certificate (20)"
+}

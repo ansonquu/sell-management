@@ -1,0 +1,110 @@
+{
+    "site_name": "Anson咖啡厅管理系统",
+    "favicon_path": "\/src\/fav.png",
+    "points_per_yuan": 1,
+    "menu_items": [
+        {
+            "name": "美式咖啡",
+            "price": 10
+        },
+        {
+            "name": "拿铁咖啡",
+            "price": 10
+        }
+    ],
+    "member_levels": [
+        {
+            "name": "普通会员",
+            "min_spent": 0,
+            "discount": 1
+        }
+    ],
+    "redemption": {
+        "enabled": true,
+        "items": [
+            {
+                "name": "美式咖啡",
+                "points": 50,
+                "cost_product": "美式咖啡",
+                "type": "product"
+            },
+            {
+                "name": "拿铁咖啡",
+                "points": 50,
+                "cost_product": "拿铁咖啡",
+                "type": "product"
+            }
+        ]
+    },
+    "consumption_record_fields": [
+        "record_id",
+        "time",
+        "member",
+        "items",
+        "amount",
+        "payment_method",
+        "ticket_number",
+        "coupon",
+        "points",
+        "operator",
+        "note"
+    ],
+    "expense_categories": [
+        {
+            "key": "ingredients",
+            "name": "原材料采购"
+        },
+        {
+            "key": "packaging",
+            "name": "包装与耗材"
+        },
+        {
+            "key": "rent",
+            "name": "房租"
+        },
+        {
+            "key": "utilities",
+            "name": "水电燃气"
+        },
+        {
+            "key": "salary",
+            "name": "工资与福利"
+        },
+        {
+            "key": "equipment",
+            "name": "设备购置"
+        },
+        {
+            "key": "maintenance",
+            "name": "维修维护"
+        },
+        {
+            "key": "marketing",
+            "name": "营销推广"
+        },
+        {
+            "key": "other",
+            "name": "其他（备注写明）"
+        }
+    ],
+    "attendance_roster": [
+        {
+            "name": "1234",
+            "positions": []
+        },
+        {
+            "name": "张三",
+            "positions": [
+                "咖啡师",
+                "收银",
+                "接待"
+            ]
+        }
+    ],
+    "attendance_positions": [
+        "店长",
+        "咖啡师",
+        "收银",
+        "接待"
+    ]
+}
